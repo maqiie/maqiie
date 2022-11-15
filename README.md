@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maqiie
-- 👀 I’m interested in ...software devlopment
+- 👀 I’m interested in ...software development
 - 🌱 I’m currently learning ...backend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
