@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on understanding more languages<br>👯 I’m looking to collaborate on learning more <br>🤝 I’m looking for help with backed dev<br>🌱 I’m currently learning node js and javascript<br>💬 Ask me about anything to do with software development<br>⚡ Fun fact am an arsenal fan.
+🔭 I’m currently working on understanding more languages<br>👯 I’m looking to collaborate on building more projects <br>🤝 I’m looking for help with backed dev<br>🌱 I’m currently learning Ruby and javascript<br>💬 Ask me about anything to do with software development<br>⚡ Fun fact am an arsenal fan.
 
 
 ## 🌐 Socials:
